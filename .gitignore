@@ -42,5 +42,3 @@ vosk-model*/
 tmp/
 temp/
 *.tmp
-ai-interview.pem
-*.pem
