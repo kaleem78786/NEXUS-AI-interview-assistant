@@ -42,3 +42,4 @@ vosk-model*/
 tmp/
 temp/
 *.tmp
+*.pem
